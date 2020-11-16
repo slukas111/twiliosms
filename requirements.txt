@@ -1,0 +1,4 @@
+
+twilio==6.47.0
+virtualenv==20.0.21
+
